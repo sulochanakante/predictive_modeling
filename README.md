@@ -14,6 +14,15 @@ One has to predict if the customer will purchase the holiday package to target t
 #### Logistic Regression
 #### Linear discriminant Analysis
 
+## Packages and modules used:
+#### Numpy
+#### Pandas
+#### Matplotlib
+#### sklearn.model_selection
+#### statsmodels.api
+#### sklearn.linear_model
+#### sklearn.metrics
+
 ## Problem 1: Linear Regression
 You are hired by a company Gem Stones co ltd, which is a cubic zirconia manufacturer. 
 You are provided with the dataset containing the prices and other attributes of almost 27,000 cubic zirconia (which is an inexpensive diamond alternative with many of the same qualities as a diamond). 
